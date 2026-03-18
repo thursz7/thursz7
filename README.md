@@ -1,4 +1,4 @@
-# Olá, mundo! Eu sou o Arthur Aureliano 👋
+# Olá, Eu sou o Arthur Aureliano 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Sistemas+🎓;Estudante+SESI%2FSENAI+🛠️;Linux+%26+Windows+Administrator+🐧;Entusiasta+de+Dados+e+IA+🤖" alt="Typing SVG" />
