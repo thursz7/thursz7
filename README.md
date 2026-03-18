@@ -1,5 +1,6 @@
-# Olá, Eu sou o Arthur Aureliano 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001F5B&height=150&section=header&text=Arthur%20Aureliano&fontSize=40&fontWeight=400&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Header Arthur Aureliano" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Sistemas+🎓;Estudante+SESI%2FSENAI+🛠️;Linux+%26+Windows+Administrator+🐧;Entusiasta+de+Dados+e+IA+🤖" alt="Typing SVG" />
 </p>
@@ -86,7 +87,7 @@ Minhas principais tecnologias e ferramentas de trabalho, do front-end à infraes
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001F5B&height=100&section=footer" width="100%"/>
 </p>
 
 <p align="center">
