@@ -74,7 +74,7 @@ Minhas principais tecnologias e ferramentas de trabalho, do front-end à infraes
 ## 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.instagram.com/thur_sz7" target="_blank">
+  <a href="https://www.instagram.com/thur__sz7" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:arthur.aurelianor@gmail.com" target="_blank">
